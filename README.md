@@ -1,22 +1,11 @@
-
 # Trap Houze Booking
 
-Website oficial do estúdio **Trap Houze Records** para agendamento de sessões, mixagens e masterizações.
+Landing page para reservar sessões no Trap Houze Records.
 
-## Funcionalidades
-- Página principal com redirecionamento para agendamentos via TidyCal
-- Botão para envio de pedidos de mix/master via email
-- Design futurista inspirado na estética CyberRitual
+Use GitHub Pages para hospedar esta página gratuitamente.
 
-## Tecnologias usadas
-- HTML5 + CSS3
-- Google Fonts (Orbitron)
-- Hospedagem via GitHub Pages
+## Como usar
 
-## Como publicar
-1. Faz fork ou clone do repositório
-2. Edita `index.html` com os teus dados e links
-3. Vai às _Settings > Pages_ e ativa GitHub Pages na branch `main`
-
----
-Feito por Tinx & NEX ⚡
+- Clique no botão "Reservar Sessão Agora" para ser redirecionado ao TidyCal.
+- Personalize o link do botão no arquivo `index.html` conforme necessário.
+- Para mais informações, entre em contato pelo Instagram @traphouzerecords.
